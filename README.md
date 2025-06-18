@@ -1,6 +1,8 @@
 # VENDOR-PERFORMANCE-DATA-ANALYTICS-USING-PYTHON-SQL-POWER-BI
  Analyzed vendor performance using Python, SQL, and Power BI to identify profit leaks, inventory issues, and top-performing suppliers. Delivered actionable insights through EDA, dashboards, and a detailed report to support data-driven business decisions.
 
+DATA SETS- https://1drv.ms/f/c/8e1a8ca8b0dd53d5/EtbEJQkHdaBBj4Do6zeXWvkBwZGXntumAyV6ygyn4Au51Q?e=re3MW0
+
 Overview
 This project focuses on analyzing vendor performance data to help a business improve its inventory management, profitability, and vendor relationships. Using real-world sales, purchase, and freight data, we performed data ingestion, cleaning, exploratory data analysis (EDA), and built a comprehensive Power BI dashboard to deliver actionable business insights.
 
